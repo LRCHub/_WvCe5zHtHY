@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "夏が僕らを呼ぶのなら",
+  "base_artist": "*Luna feat. わかばやし",
+  "createdAt": "2025-12-18T13:38:02.803313Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夏が僕らを呼ぶのなら",
+      "artist": "*Luna feat. わかばやし",
+      "has_synced": true,
+      "path": "select/01_夏が僕らを呼ぶのなら_Luna_feat._わかばやし.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夏が僕らを呼ぶのなら",
+      "artist": "*Luna feat. わかばやし",
+      "has_synced": false,
+      "path": "select/pl_01_夏が僕らを呼ぶのなら_Luna_feat._わかばやし.txt"
+    }
+  ]
+}
